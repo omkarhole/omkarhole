@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omkar Hole</h1>
 <h3 align="center">A passionate MEARN stack developer from India</h3>
-
+![](https://hit.yhype.me/github/profile?account_id=182200831)
 - 🔭 I’m currently working on [web-Tading Platform](https://zerodha-c7dx.onrender.com)
 
 - 👨‍💻 All of my projects are available at [https://github.com/omkarhole](https://github.com/omkarhole)
