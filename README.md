@@ -14,7 +14,7 @@
 <a href = "mailto:omkarhole314@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/in/omkar-hole-46a693294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/omkar-hole-46a693294" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/omkar-hole-46a693294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/omkar-hole-46a693294" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/by5z8xjsfw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/by5z8xjsfw/" height="30" width="40" /></a>
 
 </p>
