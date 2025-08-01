@@ -18,7 +18,8 @@
 <a href="https://www.leetcode.com/https://leetcode.com/u/by5z8xjsfw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/by5z8xjsfw/" height="30" width="40" /></a>
 
 </p>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="omkar-hole-c0der" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/omkar-hole-c0der?trk=profile-badge">Omkar Hole</a></div>
+              
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
