@@ -42,5 +42,6 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarhole&layout=compact&theme=react" alt=omkarhole />
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=omkarhole&show_icons=true&locale=en&theme=radical" alt="omkarhole" /></p>
+<h3 align="left">my codeSpace</h3>
 <img src="https://readmecodegen.vercel.app/api/leetcode-stats/omkarhole?acceptance=false&reputation=false&hard=false&font=Roboto%2C+Arial%2C+Helvetica%2C+sans-serif&template=minimal" width="400" />
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
