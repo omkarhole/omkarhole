@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 <h1 align="center">Hi 👋, I'm Omkar Hole</h1>
 <h3 align="center">A passionate MEARN stack developer from India</h3>
 
@@ -44,4 +46,5 @@
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=omkarhole&show_icons=true&locale=en&theme=radical" alt="omkarhole" /></p>
 <h3 align="left">my codeSpace</h3>
 <img src="https://readmecodegen.vercel.app/api/leetcode-stats/omkarhole?acceptance=false&reputation=false&hard=false&font=Roboto%2C+Arial%2C+Helvetica%2C+sans-serif&template=minimal" width="400" />
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+
