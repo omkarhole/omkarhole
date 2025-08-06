@@ -46,6 +46,9 @@
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=omkarhole&show_icons=true&locale=en&theme=radical" alt="omkarhole" /></p>
 <h3 align="left">my codeSpace</h3>
 <img src="https://readmecodegen.vercel.app/api/leetcode-stats/omkarhole?acceptance=false&reputation=false&hard=false&font=Roboto%2C+Arial%2C+Helvetica%2C+sans-serif&template=minimal" width="400" />
-<img src="https://raw.githubusercontent.com/omkarhole/snk/output/snake.svg" />
+<h3 align="left">🐍GitHub Contribution Snake</h3> 
+
+<img src="https://raw.githubusercontent.com/omkarhole/snake-ladder/refs/heads/output/snake.svg" alt="Snake animation" />
+
 
 
