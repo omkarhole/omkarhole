@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Omkar Hole</h1>
 <h3 align="center">A passionate MEARN stack developer from India</h3>
 
-- 🔭 I’m currently working on [web-Tading Platform](https://zerodha-c7dx.onrender.com)
+- 🔭 I’m currently working on [My portfolio](https://portfolio-snowy-nine-73.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/omkarhole](https://github.com/omkarhole)
 - 📄 View my resume: [OmkarHole](https://drive.google.com/file/d/1K9RnKnJYBqEJBeW6H-auGHE5C9FnTies/view?usp=sharing)
