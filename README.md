@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on zoom clone-https://voom-one.vercel.app/
 
 - 👨‍💻 All of my projects are available at [https://github.com/omkarhole](https://github.com/omkarhole)
-- 📄 View my resume: [OmkarHole](https://drive.google.com/file/d/1K9RnKnJYBqEJBeW6H-auGHE5C9FnTies/view?usp=sharing)
+- 📄 View my resume: [OmkarHole](https://drive.google.com/file/d/199tYqloQQMUnqi-VWzkVYIixuuLfCJTo/view?usp=sharing)
 - 💬 Ask me about **MEARN ,bootstrap,talwind css and little more**
 
 - 📫 How to reach me **omkarhole314@gmail.com**
