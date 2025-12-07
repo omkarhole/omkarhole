@@ -4,7 +4,7 @@
 <h1 align="center">Hi👋,I'm Omkar Hole </h1> 
 <h3 align="center">A passionate MEARN stack developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarhole&label=Profile%20views&color=0e75b6&style=flat" alt="omkarhole" /> </p>
-- 🔭 I’m currently working on : https://github.com/omkarhole/Alumni-Management-System
+- 🔭 I’m currently working on : https://github.com/omkarhole/Alumni-Management-System 
 
 - 👨‍💻 All of my projects are available at [https://github.com/omkarhole](https://github.com/omkarhole)
 - 📄 View my resume: [OmkarHole](https://drive.google.com/file/d/1-yajRqJCb-TMXXRCkgezJg0NsK8p5VuT/view?usp=sharing)
