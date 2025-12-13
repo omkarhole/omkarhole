@@ -1,7 +1,7 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>    
-<h1 align="center">Hi👋,I'm Omkar Hole </h1> 
+<h1 align="center">Hi👋,I'm Omkar Hole </h1>     
 <h3 align="center">A passionate MEARN stack developer from India </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarhole&label=Profile%20views&color=0e75b6&style=flat" alt="omkarhole" /> </p>
 - 🔭 I’m currently working on : https://github.com/omkarhole/Alumni-Management-System 
