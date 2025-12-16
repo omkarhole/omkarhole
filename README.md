@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/omkarhole](https://github.com/omkarhole)
 - 📄 View my resume: [OmkarHole](https://drive.google.com/file/d/1-yajRqJCb-TMXXRCkgezJg0NsK8p5VuT/view?usp=sharing)
-- 💬 Ask me about **MEARN ,bootstrap,talwind css and little more **    
+- 💬 Ask me about **MEARN ,bootstrap,talwind css and little more **        
     
 - 📫 How to reach me **omkarhole314@gmail.com**     
 <div> <a href="https://www.linkedin.com/in/in/omkar-hole-46a693294" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
