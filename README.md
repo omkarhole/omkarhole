@@ -61,8 +61,8 @@
 </p>
 
 <h3 align="left">🐍GitHub Contribution Snake</h3> 
-
+<p align="center">
 <img src="https://raw.githubusercontent.com/omkarhole/snake-ladder/refs/heads/output/snake.svg" alt="Snake animation" />
-
+</p>
 
 
