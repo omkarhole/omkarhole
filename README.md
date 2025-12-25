@@ -43,11 +43,23 @@
 
  
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarhole&layout=compact&theme=react" alt=omkarhole />
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=omkarhole&theme=tokyonight)
-<h3 align="left">my codeSpace</h3>
-<img src="https://readmecodegen.vercel.app/api/leetcode-stats/omkarhole?acceptance=false&reputation=false&hard=false&font=Roboto%2C+Arial%2C+Helvetica%2C+sans-serif&template=minimal" width="400" />
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omkarhole&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarhole&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarhole&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+## 🧠 My LeetCode Stats
+
+<p align="center">
+  <img src="https://readmecodegen.vercel.app/api/leetcode-stats/by5z8xjsfw?template=minimal" width="400"/>
+</p>
+
 <h3 align="left">🐍GitHub Contribution Snake</h3> 
 
 <img src="https://raw.githubusercontent.com/omkarhole/snake-ladder/refs/heads/output/snake.svg" alt="Snake animation" />
