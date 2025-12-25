@@ -2,39 +2,30 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Omkar Hole</h1>
-<h3 align="center">MERN Stack Developer | Open Source Contributor</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Omkar+Hole;Full+Stack+Developer+%7C+Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omkarhole&label=Profile%20views&color=0e75b6&style=flat" alt="omkarhole" />
+  <a href="https://www.linkedin.com/in/omkar-hole-46a693294"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/omkarhole"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:omkarhole314@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=omkarhole&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
+## 🎯 GSoC 2026 Aspirant
+> *Passionate about building scalable web applications and contributing to open source communities. Actively preparing for Google Summer of Code 2026.*
 
+---
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **Alumni Management System**
-- 🌱 Learning **advanced MERN, system design, and open source**
-- 👨‍💻 All projects: [https://github.com/omkarhole](https://github.com/omkarhole)
-- 📄 Resume: [View Resume](https://drive.google.com/file/d/1-yajRqJCb-TMXXRCkgezJg0NsK8p5VuT/view)
-- 💬 Ask me about **MERN, Bootstrap, Tailwind CSS**
-- 📫 Reach me at **omkarhole314@gmail.com**
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/omkar-hole-46a693294" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/omkarhole" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:omkarhole314@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+- 🔭 **Currently Building** — Alumni Management System (Full-Stack MERN)
+- 📖 **Learning** — System Design, Advanced TypeScript, Open Source Best Practices
+- 🎯 **Goal for 2026** — Get selected as a GSoC contributor
+- 💼 **Open to** — Open source collaborations & mentorship opportunities
+- 📄 **Resume** — [View Resume](https://drive.google.com/file/d/1-yajRqJCb-TMXXRCkgezJg0NsK8p5VuT/view)
+- 📫 **Contact** — omkarhole314@gmail.com
 
 ---
 
@@ -82,5 +73,20 @@
 </p>
 
 ---
+
+<div align="center">
+  
+### 💬 *"First, solve the problem. Then, write the code."* – John Johnson
+
+---
+
+<p>
+  <img src="https://img.shields.io/badge/Open_to_Collaborate-6366F1?style=for-the-badge&logo=handshake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GSoC_2026-FF6F00?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+
+**⭐ If you find my work interesting, consider giving a star!**
+
+</div>
 
 
