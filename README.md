@@ -41,7 +41,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omkarhole&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarhole&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=omkarhole&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omkarhole&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=omkarhole&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
