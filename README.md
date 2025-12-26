@@ -41,7 +41,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omkarhole&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=omkarhole&theme=tokyonight" />
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&fontFamily=Barlow%20Semi%20Condensed&preferLogin=false">    <img  alt="omkarhole's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/omkarhole?cardType=level&theme=github-dark&fontFamily=Barlow%20Semi%20Condensed&preferLogin=false" />  </a>
 </p>
 
 <p align="center">
