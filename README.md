@@ -39,13 +39,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkarhole&show_icons=true&theme=tokyonight" height="160"/>
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&fontFamily=Barlow%20Semi%20Condensed&preferLogin=false">    <img  alt="omkarhole's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/omkarhole?cardType=level&theme=github-dark&fontFamily=Barlow%20Semi%20Condensed&preferLogin=false" />  </a>
+<p align="center" >
+  
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=omkarhole&layout=compact&theme=radical" alt="Omkar Hole Top Languages"    width="354"/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=omkarhole&show_icons=true&theme=radical" alt="Omkar Hole GitHub Stats" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarhole&layout=compact&theme=tokyonight" height="150"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=omkarhole&theme=radical" alt="Omkar Hole GitHub Streak Stats" />
 </p>
 
 ---
