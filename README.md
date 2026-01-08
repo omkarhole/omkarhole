@@ -69,10 +69,10 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 🐍 GitHub Contribution
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/omkarhole/snake-ladder/output/snake.svg" alt="Snake animation"/>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omkarhole&theme=2077" alt="Profile details badge"/>
 </p>
 
 ---
