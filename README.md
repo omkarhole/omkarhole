@@ -69,7 +69,7 @@
 
 ---
 
-## 🐍 GitHub Contribution
+##  GitHub Contribution
 
 <p align="center">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omkarhole&theme=2077" alt="Profile details badge"/>
