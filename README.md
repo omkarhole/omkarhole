@@ -15,15 +15,15 @@
 
 ---
 ## 🎯 GSoC 2026 Aspirant
-> *Passionate about building scalable web applications and contributing to open source communities. Actively preparing for Google Summer of Code 2026.*
+> *Actively contributing to open-source projects, improving documentation, fixing bugs, and preparing strong proposals for Google Summer of Code 2026.*
 
 ---
 ## 👨‍💻 About Me
 
-- 🔭 **Currently Building** — Alumni Management System (Full-Stack MERN)
+- 🔭 **Currently Building** — Alumni Management System using MERN stack
 - 📖 **Learning** — System Design, Advanced TypeScript, Open Source Best Practices
 - 🎯 **Goal for 2026** — Get selected as a GSoC contributor
-- 💼 **Open to** — Open source collaborations & mentorship opportunities
+- 💼 **Open to** — Open-source collaboration, code reviews, and mentorship
 - 📄 **Resume** — [View Resume](https://drive.google.com/file/d/1-yajRqJCb-TMXXRCkgezJg0NsK8p5VuT/view)
 - 📫 **Contact** — omkarhole314@gmail.com
 
@@ -86,7 +86,7 @@
   <img src="https://img.shields.io/badge/GSoC_2026-FF6F00?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
-**⭐ If you find my work interesting, consider giving a star!**
+**⭐ If you like my work, feel free to star a repo or reach out for collaboration.**
 
 </div>
 
