@@ -13,9 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=omkarhole&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views"/>
 </p>
 
----
-## 🎯 GSoC 2026 Aspirant
-> *Actively contributing to open-source projects, improving documentation, fixing bugs, and preparing strong proposals for Google Summer of Code 2026.*
 
 ---
 ## 👨‍💻 About Me
