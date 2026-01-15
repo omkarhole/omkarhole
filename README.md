@@ -13,8 +13,10 @@
   <img src="https://komarev.com/ghpvc/?username=omkarhole&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+</p>
 
----
 ## 👨‍💻 About Me
 
 - 🔭 **Currently Building** — Alumni Management System using MERN stack
