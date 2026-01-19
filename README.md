@@ -21,7 +21,6 @@
 
 - 🔭 **Currently Building** — Alumni Management System using MERN stack
 - 📖 **Learning** — System Design, Advanced TypeScript, Open Source Best Practices
-- 🎯 **Goal for 2026** — Get selected as a GSoC contributor
 - 💼 **Open to** — Open-source collaboration, code reviews, and mentorship
 - 📄 **Resume** — [View Resume](https://drive.google.com/file/d/1-yajRqJCb-TMXXRCkgezJg0NsK8p5VuT/view)
 - 📫 **Contact** — omkarhole314@gmail.com
