@@ -73,7 +73,7 @@
 
 ---
 <p align="center">
-<img src="https://raw.githubusercontent.com/omkarhole/omkarhole/output/snake.svg" alt="Snake animation" />
+<img src="https://ssr-contributions-svg.vercel.app/_/omkarhole?chart=3dbar&gap=0.6&scale=2&light=30&flatten=0&animation=mess&animation_duration=6&format=svg&weeks=50&theme=purple&widget_size=medium&dark=true" alt="Snake animation" />
 
 ###
 </p>
