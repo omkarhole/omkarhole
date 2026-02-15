@@ -22,7 +22,7 @@
 - 🔭 **Currently Building** — Alumni Management System using MERN stack
 - 📖 **Learning** — System Design, Advanced TypeScript, Open Source Best Practices
 - 💼 **Open to** — Open-source collaboration, code reviews, and mentorship
-- 📄 **Resume** — [View Resume](https://drive.google.com/file/d/1-yajRqJCb-TMXXRCkgezJg0NsK8p5VuT/view)
+- 📄 **Resume** — [View Resume](https://drive.google.com/file/d/13tP6C9OkOAl-UlDH8v3EEsxVbQSN4M_y/view?usp=sharing)
 - 📫 **Contact** — omkarhole314@gmail.com
 
 ---
