@@ -40,9 +40,7 @@
 <p align="center" >
   
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=omkarhole&layout=compact&theme=radical" alt="Omkar Hole Top Languages"    width="354"/>
-
 <img src="https://github-readme-stats-fast.vercel.app/api?username=omkarhole&show_icons=true&theme=radical" alt="Omkar Hole GitHub Stats" />
-
 </p>
 
 <p align="center">
