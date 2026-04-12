@@ -30,7 +30,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,html,css,react,nextjs,nodejs,express,mongodb,bootstrap,tailwind,git,postman" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nextjs,nodejs,express,mongodb,bootstrap,tailwind,git,postman" />
 </p>
 
 ---
