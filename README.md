@@ -30,7 +30,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nextjs,nodejs,express,mongodb,bootstrap,tailwind,git,postman" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,js,ts,java,html,css,react,nextjs,nodejs,express,mongodb,bootstrap,tailwind,git,postman" />
 </p>
 
 ---
@@ -84,9 +84,10 @@
 
 ---
 
-<p>
-  <img src="https://img.shields.io/badge/Open_to_Collaborate-6366F1?style=for-the-badge&logo=handshake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GSoC_2026-FF6F00?style=for-the-badge&logo=google&logoColor=white"/>
+<p align="center">
+<img src="https://img.shields.io/badge/Open_to_Work-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Science-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Analytics-F59E0B?style=for-the-badge"/>
 </p>
 
 **⭐ If you like my work, feel free to star a repo or reach out for collaboration.**
