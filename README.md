@@ -48,28 +48,6 @@
 </p>
 
 ---
-
-## 🧠 LeetCode Stats
-
-<p align="center">
-  <img src="https://readmecodegen.vercel.app/api/leetcode-stats/by5z8xjsfw?template=minimal" width="420"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-trophies.vercel.app/?username=omkarhole">
-</p>
-
----
-
-##  GitHub Activity Graph
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omkarhole&bg_color=000000&color=d2d6db&line=345ab2&point=32b388&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 <p align="center">
 <img src="https://ssr-contributions-svg.vercel.app/_/omkarhole?chart=3dbar&gap=0.6&scale=2&light=30&flatten=0&animation=mess&animation_duration=6&format=svg&weeks=50&theme=purple&widget_size=small&dark=true" alt="Snake animation" />
 
