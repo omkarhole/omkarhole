@@ -22,7 +22,7 @@
 - 🔭 **Currently Building** — end-to-end Data Analytics & Data Science projects
 - 📖 **Learning** — Machine Learning, Statistics, SQL, Python, and Data Visualization
 - 💼 **Open to** — Data Analyst, Business Analyst, and Data Science Internship opportunities
-- 📄 **Resume** — [View Resume](https://drive.google.com/file/d/13tP6C9OkOAl-UlDH8v3EEsxVbQSN4M_y/view?usp=sharing)
+- 📄 **Resume** — [View Resume](https://drive.google.com/file/d/14Vo8O6BQouNo5nb7Wrc9V0O-kj0iUO5p/view?usp=sharing)
 - 📫 **Contact** — omkarhole314@gmail.com
 
 ---
